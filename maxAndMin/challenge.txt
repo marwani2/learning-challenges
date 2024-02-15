@@ -1,0 +1,9 @@
+create me a function that takes a list of numbers and prints the maximum number in the list using a loop not using max function
+create me a function that takes a list of numbers and prints the minimum number in the list using a loop not using min function
+
+
+example 
+maximum([1,5,31,25,5]) --> 31
+minimum([1,5,31,25,5]) --> 1
+minimum([1,5,-31,25,5]) --> -31
+
