@@ -1,0 +1,10 @@
+def palindromic(str):
+    if str == str [::-1]:
+        return ('string is palindromic')
+    else:
+        return ('string is not palindromic')
+#example
+print (palindromic('mom'))
+
+#example
+print (palindromic('hi'))
