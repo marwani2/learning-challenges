@@ -1,5 +1,9 @@
+def reverse_str(str):
+    a = str [::-1]
+    return a
+
 def palindromic(str):
-    if str == str [::-1]:
+    if str == reverse_str(str):
         return ('string is palindromic')
     else:
         return ('string is not palindromic')
