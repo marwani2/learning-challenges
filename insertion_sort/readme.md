@@ -1,0 +1,1 @@
+build a function to sort an array from least to most 
